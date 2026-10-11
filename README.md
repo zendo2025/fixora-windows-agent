@@ -36,3 +36,9 @@ du serveur. Vérifiez le code avant chaque publication.
 
 Le code de Fixora Windows Agent est distribué sous licence MIT.
 LibreHardwareMonitor et ses dépendances conservent leurs licences respectives.
+
+## Code signing policy
+
+Free code signing provided by [SignPath.io](https://signpath.io/), certificate by [SignPath Foundation](https://signpath.org/).
+
+The official Fixora Windows Agent binaries are built automatically from this public repository using GitHub Actions. Signing requests are submitted only from the official build workflow.
